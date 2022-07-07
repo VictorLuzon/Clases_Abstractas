@@ -1,0 +1,16 @@
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\bin\Debug\net5.0\ClaseAbstracta_Y_Interfaces.exe
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\bin\Debug\net5.0\ClaseAbstracta_Y_Interfaces.deps.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\bin\Debug\net5.0\ClaseAbstracta_Y_Interfaces.runtimeconfig.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\bin\Debug\net5.0\ClaseAbstracta_Y_Interfaces.runtimeconfig.dev.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\bin\Debug\net5.0\ClaseAbstracta_Y_Interfaces.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\bin\Debug\net5.0\ref\ClaseAbstracta_Y_Interfaces.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\bin\Debug\net5.0\ClaseAbstracta_Y_Interfaces.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\obj\Debug\net5.0\ClaseAbstracta_Y_Interfaces.csproj.AssemblyReference.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\obj\Debug\net5.0\ClaseAbstracta_Y_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\obj\Debug\net5.0\ClaseAbstracta_Y_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\obj\Debug\net5.0\ClaseAbstracta_Y_Interfaces.AssemblyInfo.cs
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\obj\Debug\net5.0\ClaseAbstracta_Y_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\obj\Debug\net5.0\ClaseAbstracta_Y_Interfaces.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\obj\Debug\net5.0\ref\ClaseAbstracta_Y_Interfaces.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\obj\Debug\net5.0\ClaseAbstracta_Y_Interfaces.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClaseAbstracta_Y_Interfaces\obj\Debug\net5.0\ClaseAbstracta_Y_Interfaces.genruntimeconfig.cache

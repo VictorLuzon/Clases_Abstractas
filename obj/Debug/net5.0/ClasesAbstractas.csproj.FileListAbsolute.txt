@@ -1,0 +1,16 @@
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\bin\Debug\net5.0\ClasesAbstractas.exe
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\bin\Debug\net5.0\ClasesAbstractas.deps.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\bin\Debug\net5.0\ClasesAbstractas.runtimeconfig.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\bin\Debug\net5.0\ClasesAbstractas.runtimeconfig.dev.json
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\bin\Debug\net5.0\ClasesAbstractas.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\bin\Debug\net5.0\ref\ClasesAbstractas.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\bin\Debug\net5.0\ClasesAbstractas.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\obj\Debug\net5.0\ClasesAbstractas.csproj.AssemblyReference.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\obj\Debug\net5.0\ClasesAbstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\obj\Debug\net5.0\ClasesAbstractas.AssemblyInfoInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\obj\Debug\net5.0\ClasesAbstractas.AssemblyInfo.cs
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\obj\Debug\net5.0\ClasesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\obj\Debug\net5.0\ClasesAbstractas.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\obj\Debug\net5.0\ref\ClasesAbstractas.dll
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\obj\Debug\net5.0\ClasesAbstractas.pdb
+C:\Users\Victor\OneDrive - iesdoctorbalmis.com\Escritorio\Ejercicios de Programación(Practicas propias)\ClasesAbstractas\obj\Debug\net5.0\ClasesAbstractas.genruntimeconfig.cache
